@@ -71,7 +71,7 @@ Below are some screenshots of the MovieApp:
 ![Simulator Screenshot - iPhone 15 Pro - 2025-02-23 at 20 05 56](https://github.com/user-attachments/assets/14aa7c7c-8bca-405d-9aab-19d57f79bbcb)
 ![Simulator Screenshot - iPhone 15 Pro - 2025-02-23 at 20 13 00](https://github.com/user-attachments/assets/545504cc-dc57-4216-a3ae-2925830eae6f)
 ![Simulator Screenshot - iPhone 15 Pro - 2025-02-23 at 20 13 05](https://github.com/user-attachments/assets/6daea6e6-0bbe-4141-ad8f-f3fe897dfa5b)
-![Uploading Simulator Screenshot - iPhone 15 Pro - 2025-02-23 at 20.13.13.png…]()
+![Simulator Screenshot - iPhone 15 Pro - 2025-02-23 at 20 13 13](https://github.com/user-attachments/assets/fa9a8ca7-86e8-4d4a-a2f8-854f5e2d1cc6)
 ![Simulator Screenshot - iPhone 15 Pro - 2025-02-23 at 20 13 31](https://github.com/user-attachments/assets/0515db6f-1b66-4ece-a064-cbdc4a1594f9)
 
 ## Author
