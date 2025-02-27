@@ -50,14 +50,6 @@ MovieApp is a SwiftUI-based iOS application that allows users to browse trending
    ```
 4. Run the app on Xcode 15+.
 
-## Known Issues & Debugging Efforts
-
-- **KFImage Not Showing Images**: Fixed by removing extra space in URL.
-- **YouTubePlayerKit Dependency Issue**: Required Swift Tools 6.0 but Xcode was on 5.9. Used alternative package.
-- **Navigation Bar Color Change on Scroll**: Fixed by overriding `UINavigationBarAppearance`.
-- **Delayed Trailer Loading**: Optimized API calls to remove unnecessary delay.
-- **Displaying Only 5 Movies**: Limited ForEach loop to first five elements.
-
 ## Future Enhancements
 
 - Implement search functionality.
